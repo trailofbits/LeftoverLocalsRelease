@@ -1,0 +1,29 @@
+argmax: 29362
+(29362, Bob)local size: 32
+argmax: 29901
+(29901, :)local size: 32
+argmax: 450
+(450,  The)local size: 32
+argmax: 10150
+(10150,  largest)local size: 32
+argmax: 4272
+(4272,  city)local size: 32
+argmax: 297
+(297,  in)local size: 32
+argmax: 278
+(278,  the)local size: 32
+argmax: 10261
+(10261,  UK)local size: 32
+argmax: 338
+(338,  is)local size: 32
+argmax: 4517
+(4517,  London)local size: 32
+argmax: 29889
+(29889, .)local size: 32
+argmax: 13
+(13, 
+)local size: 32
+argmax: 2659
+(2659, User)local size: 32
+argmax: 29901
+(29901, :)
